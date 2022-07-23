@@ -4,7 +4,6 @@ import Section from './Section';
 import ContactList from './ContactList';
 import Phonebook from './Phonebook';
 import Filter from './Filter';
-
 import s from './App.module.css';
 import capitalize from 'utils/capitalize';
 
